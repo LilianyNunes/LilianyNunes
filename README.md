@@ -17,7 +17,8 @@
 ## 📊 Linguagens mais Utilizadas
 <div>
   <a href="https://github.com/LilianyNunes">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LilianyNunes&theme=react&layout=compact"/>
+    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LilianyNunes&theme=react&layout=compact&card_width=340"/>
+  </a>
 </div>
 
 ---
